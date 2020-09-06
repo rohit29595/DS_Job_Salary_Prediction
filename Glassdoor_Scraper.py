@@ -188,10 +188,3 @@ def get_jobs(keyword, num_jobs, verbose, path,slp_time):
 
     return pd.DataFrame(jobs)  # This line converts the dictionary object into a pandas DataFrame.
 
-
-def main():
-    path = '/Users/rohit/Downloads/chromedriver'
-    df = get_jobs('data scientist',15,False,path,15)
-    print(df.head())
-
-main()
