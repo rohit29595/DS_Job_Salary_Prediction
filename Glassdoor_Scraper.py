@@ -1,5 +1,16 @@
+
+# A glassdoor scraper to get data for predicting data science salary
+
+#Author - arapfaik
+#Github - https://github.com/arapfaik/scraping-glassdoor-selenium
+
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+
+
 import time
 import pandas as pd
 
@@ -9,6 +20,8 @@ def get_jobs(keyword, num_jobs, verbose, path,slp_time):
 
     # Initializing the webdriver
     options = webdriver.ChromeOptions()
+
+    browser = webdriver.Chrome('./chromedriver', options=options)
 
     # Uncomment the line below if you'd like to scrape without a new Chrome window every time.
     # options.add_argument('headless')
@@ -50,7 +63,8 @@ def get_jobs(keyword, num_jobs, verbose, path,slp_time):
             if len(jobs) >= num_jobs:
                 break
 
-            job_button.click()  # You might
+            #job_button.click()  # You might
+            driver.execute_script("arguments[0].click();", job_button)
             time.sleep(1)
             collected_successfully = False
 

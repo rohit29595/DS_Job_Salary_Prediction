@@ -1,0 +1,616 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Data Scientist,$78K-$133K (Glassdoor est.),"Publishers Clearing House (PCH), located in Jericho, NY is looking for a strongData Scientist who is passionate about using the power of algorithms to drive customer engagement and monetization. As a part of our Analytics team, you will be utilizing enormous volumes of data on customers, PCH products, channels, and developing advanced statistical algorithms to solve unique business problems. This is an exciting opportunity to work with big data to build data products backed by algorithms to delight customers and to drive significant advances in PCH Commerce (online and Direct Mail), Search, Online Gaming, and Digital Advertising business.
+
+Responsibilities include but are not limited to:
+Work comfortably with multi-terabyte, and billion+ rows data to extract insights and building predictive models to maximize profit
+Utilize large-scale data mining and machine learning techniques to discover actionable patterns in the data
+Perform rigorous model development, evaluation, design hypothesis tests, oversee test execution and result evaluation
+Communicate complex analyses in a clear and actionable manner
+Desired skills, experience& qualifications:
+Masters degree required in Machine Learning, Applied Math, Computer Science, Economics, Statistics, or a related quantitative field
+2 to 5 years’ experience in building predictive models using SAS Enterprise Guide (EG) , SAS Enterprise Miner or/and Python
+Solid understanding of advanced statistical concepts, especially related to modelling is a must
+Experience with publishers and or ad tech companies, experience in media, advertising and marketing vertical is a plus
+Knowledge of programmatic advertising and digital acquisition. Experience in building optimization models /algorithms for media spends and maximize CPM
+Experience working with enterprise-level digital analytics platform such as Google Analytics is a plus
+Experience with cloud platforms AWS or Google Could Platforms (preferred)
+Experience with ETL and building data pipelines and familiarity with distributed storage and big data computing technology is a plus
+Excellent communication and presentation skills
+Publishers Clearing House (PCH), headquartered in Jericho, NY, and with offices in NYC, Portland, ME and Boston, MA, is a leading direct-to-consumer company offering a broad range of products, digital entertainment services to consumers as well as customized solutions for advertisers. Our continued success in today’s new digital publishing environment is built on PCH’s unique, free-to-play, chance-to-win value proposition, which enables individually personalized offers based on the trusted first-party relationship we maintain with millions of consumers and is fueled by the excitement of the Publishers Clearing House brand.
+
+Join our winning team and apply today!
+
+This position is located in Jericho, NY. Candidates must reside in the NY tri-state area
+
+PCH is an Equal Opportunity Employer",3.4,"Publishers Clearing House
+3.4","Jericho, NY",-1,501 to 1000 Employees,1953,Company - Private,Advertising & Marketing,Business Services,$500 million to $1 billion (USD),-1
+Associate Data Scientist,$78K-$133K (Glassdoor est.),"Job Description
+
+As an Associate Data Scientist, you will apply modern data storage, movement, and transformation architectures and techniques to extract and engineer features from any scale structured or unstructured data in health, IT system, business processes, or external data. You will also access, cleanse, compile, and transform disparate data sets to conduct exploratory and pre-defined analyses using scientifically valid techniques and generate meaningful insights as well as assist with feasibility studies to identify data availability, quality and modeling requirements, and dependencies.
+
+Qualifications
+
+Basic Qualifications
+Master’s Degree in Statistics, Computer Science, Analytics, Biostatistics, Applied Mathematics, Software Engineering, Data Science, or related field, or equivalent relevant work experience
+At least 1 year of statistical programming and applied programming work experience
+At least 1 year Data mining, quantitative analysis, and/or statistical modeling including predictive performance and algorithm optimization work experience
+Preferred Qualifications
+Experience with relational databases and SQL; NoSQL databases (hBase, Cassandra, MongoDB, Couch DB, Riak) and unstructured data; Spark; Pig and Avro
+Experience with agile software development methodologies
+Expectations
+Willing to travel up to 20% of the time as needed
+Must be currently residing in or willing to relocate to the Kansas City metro area",3.9,"Cerner
+3.9","North Kansas City, MO",-1,10000+ Employees,1979,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),-1
+Data Scientist,$78K-$133K (Glassdoor est.),"Job Description:
+
+Our Advanced Data Analytics division in Reston, VA is seeking a talented Data Scientist for R&D projects with large amounts of complex data. As a Data Scientist you will be responsible for designing, implementing, and analyzing the results of innovative solutions to clients’ challenging machine learning and data mining problems. Applicants interested in applying only off-the-shelf solutions need not apply. Project teams are small, typically 2-5 people including Data Scientists, Mathematicians, and Software Developers. Each person is involved in the project’s entire process, from concept through design and implementation to demonstration. Our management structure gives you the freedom to create innovative designs and products. The ideal candidate will have experience writing well-documented, maintainable, and extensible software and APIs.
+
+Required Qualifications:
+Bachelor’s or Master’s degree in Machine Learning, Data Science, Computer Science, Mathematics, Statistics, or a related field
+Significant experience developing and knowledge of best practices for evaluating innovative, scalable anomaly detection, classification, recommendation, and related algorithms
+Significant programming experience in Python, Java, Scala, or R
+Experience with machine learning software libraries such as scikit-learn and Weka
+Understanding of deep learning algorithms and experience with related libraries such as TensorFlow, Torch, and Deeplearning4j a plus
+Experience with big data tools such as Apache Spark, Mahout, or Storm a plus
+Experience with NLP (Natural Language Processing) a plus
+Ability to communicate algorithm design, performance metrics, and data analyses in written and oral reports
+US CITIZENSHIP REQUIRED; applicants selected will be subject to a security investigation and will need to meet eligibility requirements for access to classified information
+
+Position Location: Reston, VA
+
+All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
+
+VEVRAA Federal Contractor",3.0,"Metron, Inc.
+3.0","Reston, VA",-1,51 to 200 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),-1
+Sr. Data Scientist,$78K-$133K (Glassdoor est.),"Overview:
+
+Medifast is seeking a full-time Senior Data Scientist to join our team.
+
+The Senior Data Scientist will be responsible for anticipating future business needs, solving real-time business questions, and identifying new applications for complex analysis.
+
+The candidate focus will be using Machine Learning for the following use cases at Medifast:
+Demand Forecasting, Recommendation Engines, Sentiments Analysis, Survival Analysis, Natural Language Processing, AB Testing, and Customer Segmentation (Unsupervised Learning).
+
+Responsibilities:
+Employ machine learning and statistical modeling to generate new features to feed into our data core. Key Models include: Demand Forecasting, Recommendation Engines, Sentiments Analysis, Survival Analysis, and Customer Segmentation
+Use storytelling to bring out the insights derived from machine learning and statistical modeling making the complex easy to follow and digestible
+Perform automated market analyses to dynamically react to changing market conditions
+Discover new predictive insights in our datasets and design measures that compute new predictive models while using data visualization methodology
+Assist the Insights Center Manager in using Data Science to enhance the Insights Roadmap and assist in the selection of Data Science products to help enable and maintain the Data Science stack
+Create measures that monitor inputs and performance on a real-time basis to inform the insights council when unexpected changes arise.
+Be active in communications with business users and data management resources to collaborate through a project lifecycle as data changes occur
+Aid and train end super users to effectively use the Data Science platform
+Coordinate with offshore technical resources
+Qualifications:
+PHD degree or equivalent preferred in Applied Statistics, Mathematics or a related data field
+5-8 years related experience
+Executing solutions to business problems using advanced statistics, testing methods, data analysis, data mining, predictive modeling, optimization, and machine learning techniques;
+Design and run end-to-end experiments with statistical rigor for test and learn, apply appropriate sampling methods and probabilistic simulations to hypothesis testing and parameter estimation including bootstrapping
+Perform data exploration and visualization (using Tableau and other visualization tools), apply machine learning and statistical inference to seed hypotheses, identify opportunities, define metrics, provide interpretability to multi-dimensional scoring, regressor and classifier models, and decision tree learning, using novel methods;
+Employ statistical programming through, Python, R, Dataiku, and toolkits (Scikit-learn, Pandas, Numpy, Scipy, PySpark, Jupyter Notebook and kernel, Macro) across disparate environments including Linux/Unix command line and shell scripting, virtual and clouds
+Execute and automate data preprocessing via relational systems (AWS, Redshift, SQL Server, MySQL, Postgre, and, Oracle), and parallel computing for big data, using analytics engine and cluster computing frameworks: Apache Spark and Hadoop MapReduce, Apache Tez, and Yarn.
+
+#LI-LW1",2.9,"Medifast, Inc.
+2.9","Baltimore, MD",-1,501 to 1000 Employees,1980,Company - Public,"Health, Beauty, & Fitness",Consumer Services,$500 million to $1 billion (USD),-1
+"Senior Data Scientist - Remote, CT, MD, MA",$78K-$133K (Glassdoor est.),"Who We Are
+Stanley Black and Decker (SBD) is committed to deep and ongoing investment in Big Data & Analytics. SBD believes that advanced analytics using massive data, while already important to our business, will increasingly become fundamental – even transformational – to the value we deliver to our customers and shareholders. Our centralized Data & Analytics Organization leverages a cloud-based data infrastructure and state of the art analytics environment to solve various business problems ranging from sales, marketing and pricing modeling to demand forecasting, inventory optimization and customer lifetime value. Our data scientists have a chance to use cutting edge AI and machine learning tools, explore many internal and external data sets and work closely with dedicated business partners across the entire organization.
+
+Who You Are
+You’re a curious problem solver who has the ability to bring big ideas to life. You’re creative and scrappy but can navigate a large organization with ease. You’re agile and adaptable but work with precision to ensure we deliver top-notch customer experiences, always. You will be responsible for providing strategic leadership for the development, validation and delivery of data science / analytics models and reporting tools. The successful candidate will act as the analytic team lead for highly complex projects. You'll have:
+Advanced degree (MS/PhD) in a relevant technical field (e.g., Computer Science, Mathematics, Applied Mathematics, Statistics, Operations Research, Industrial Engineering, Econometrics) with 7+ years of experience in related data science, data analytics, machine learning and predictive modeling roles
+Experience working with large complex data sets, real time/near real time analytics, and distributed big data platforms (Hadoop & MapReduce and/or Cassandra/Spark)
+Understanding of how digital marketing works and marketing ecosystem
+Familiarity with the different digital marketing media, including PPC, ads placement, Amazon advertising and SEO along with their associated metrics.
+Strong practical knowledge of analytical techniques and methodologies such as machine learning/supervised and unsupervised techniques, segmentation, mix and time series modeling, response modeling, lift modeling, experimental design, neural networks, data mining and optimization techniques
+Strong background in applying statistical machine learning techniques to predictive modeling and experience with Machine Learning libraries (via R, H2O, Python, Spark, etc.)
+Proficiency in programming in Python, R, SQL, JavaScript, Java/Scala/Ruby and shell scripting
+Proficiency in consuming REST based API (with JSON payload) is a plus.
+Fluency in big data platforms including Hadoop, MapReduce, Hive, Spark, PIG
+Familiarity with Cloud based HaaS/PaaS solutions such as AWS EMR, MS Azure.
+A strong understanding of data profiling and data cleansing techniques
+Natural curiosity and a strong passion for empirical research and problem solving
+Strong written and verbal communications skills; comfortable communicating with senior levels of both business and technology leadership.
+What You’ll Do :
+Work with a wide range of large complex data sets, real time/near real time analytics, and distributed big data platforms (Hadoop & MapReduce and/or Cassandra/Spark) across entire SBD to solve highly complex real-world business problem.
+Determine and design appropriate analytical approaches and predictive modeling techniques with Machine Learning libraries (via R, H2O, Python, Spark, etc.) for these business problems and leads their development and execution.
+Identify potential analytical use cases, evaluate their feasibility and quantify potential future business impact
+Drive the collection, cleansing, processing and analysis of new and existing internal and external data sources.
+Establish analytical rigor and predictive methods to analyze large amounts of data using advanced analytics techniques.
+Build, test, and deploy predictive models and/or machine learning algorithms on very large static and/or streaming data sets
+Report findings by creating useful and appropriate data outputs and visualizations tailored for the intended audiences
+Work with complex and extremely wide range of data sets across entire SBD to solve highly complex real-world business problems
+Manage highly complex analytical projects from data exploration, model building, performance evaluation and testing.
+Provide thought leadership and direction for analytic solutions, tools and studies.
+Provide guidance to develop enterprise-wide analytics strategy and roadmap.
+Interact with internal and external peers and management to share highly complex information/solutions related to areas of expertise and/or to gain acceptance of new or enhanced technology/ business solutions.
+Learn & stay current on analytics developments in one or more business domains: Image Processing, Internet of Things, Digital Manufacturing, Supply Chain Optimization, Demand Forecasting, Sales & Marketing, Pricing, etc.
+
+Benefits & Perks
+You’ll get a competitive salary and a comprehensive benefits plan that includes medical, dental, life, vision, wellness program, disability, 401k, Employee Stock Purchase Plan, Paid Time Off, including paid vacation, holidays & personal days, and tuition reimbursement. And, of course, discounts on Stanley Black & Decker tools and products and well as discount programs for many other vendors and partners.
+
+What You’ll Also Get
+Career Opportunity: Career paths aren’t linear here. Being part of our global company with 60+ brands gives you the chance to grow and develop your skills along multiple career paths.
+Learning & Development: Our lifelong learning philosophy means you’ll have access to a wealth of state-of-the-art learning resources, including our Lean Academy and online university (where you can get certificates and specializations from renowned colleges and universities).
+Diverse & Inclusive Culture: We pride ourselves on being an awesome place to work. We respect and embrace differences because that’s how the best work gets done. You’ll find we like to have fun here, too.
+Purpose-Driven Company: You’ll help us continue to make positive changes in the local communities where we work and live as well as in the broader world through volunteerism, giving back and sustainable business practices.
+
+Stanley Black & Decker is one of the world's largest, fastest growing and most dynamic companies. SBD, a Fortune 200 company is a world-leading provider of tools and storage, commercial electronic security and engineered fastening systems, with unique growth platforms and a track record of sustained profitable growth.
+
+#LI-AH1
+
+EEO:
+All qualified applicants to Stanley Black & Decker are considered for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran’s status or any other protected characteristic.",3.2,"Stanley Black & Decker
+3.2","New Britain, CT",-1,10000+ Employees,1843,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),-1
+Data Engineer,$78K-$133K (Glassdoor est.),"SUMMARY OF RESPONSIBILITIES: *
+This class is responsible for creating, maintaining, and evolving the organization's strategy for data storing, transformation, and distribution to ensure data quality and value for analytics, to include translating business requirements into conceptual, logical, and physical data models that will support data analysis/visualization and decision-making across all divisions. Responsibilities will include, but not be limited to cleaning and transforming data into a useful state, creating, extending, and maintaining logical entity relationship models and diagrams using data modeling tools, technologies and frameworks; maintain work flows that ensure data integrity, synchronization, quality and consistency; create and maintain data dictionary (metadata) to document what technology manages the data, the schema, the size, how the data is secured, the source of the data, definitions, business owners, format, structure of databases, and the relationship between field elements in order to control access to and manipulation of the databases; gather data requirements, such as how long the data needs to be stored, how it will be used, and what people and systems need access to the data; store the data, using specialized technologies that are optimized for the particular use of the data, such as Sisense and/or a relational database, a NoSQL database, etc.; support special initiatives and projects requiring complex data analysis and other support; collaborate with data analytics teams and other staff to build the right solutions; lead data model walk-throughs to ensure clear understanding across all stakeholders and address any issues that arise; analyze and debug performance issues on data models; create, document and store scripts and case scenarios required for testing; write and execute ad-hoc and complex queries to perform data analysis; perform data profiling on source system data to ensure that source system data can be integrated and represented properly in data models. Operating under general supervision of the Data and Analytics Manager, work is performed in accordance with established policies and procedures, with leeway allowed for the exercise of independent judgment in carrying out the details of the work.
+KNOWLEDGE, SKILLS, AND ABILITIES: *
+• Thorough knowledge of ingestion, processing frameworks and storage engines
+
+• Thorough knowledge architecting distributed systems, creating reliable pipelines, combining data sources, architecting data stores
+
+• Thorough knowledge of batch and stream processing
+
+• Thorough knowledge of Linux and command line tools such as grep, awk, etc.
+
+• Thorough knowledge of SQL and programming such as Java, Python, Scala, R, etc.
+
+• Thorough knowledge and holistic understanding of data as an asset
+
+• Thorough knowledge of safety rules/regulations/procedures, as applicable
+
+• Thorough knowledge in operating computers and applicable software including Microsoft Office tools
+
+• Ability to design and implement data models
+
+• Ability to unlock additional value from data through completion of feasibility studies for assigned use cases
+
+• Ability to use SQL for queries and report building
+
+• Ability to translate logical models into physical models, adding appropriate physical objects to create the objects within the data store (e.g., indexes, sequences, etc.)
+
+• Ability to interpret complex business requirements and create data models across multiple applications that support business goals
+
+• Ability to solve problems independently and provide recommendations for continuous improvement
+
+• Ability to ensure quality control in all work products/outputs
+
+• Thorough knowledge of math concepts and formulas required for data analysis and reporting
+
+• Ability to work as part of a cross functional team
+
+• Ability to use strong analytics skills in interpreting and visualizing data
+
+• Ability to create and maintain reports/records, spreadsheets, documents, tables, etc.
+
+• Ability to organize/prioritize work and provide excellent customer service
+
+• Ability to maintain knowledge on current and emerging technologies and evaluate the impact of new applications and technologies on data structures
+
+• Ability to work with staff across all divisions to maintain data models and processes that are scalable, adaptable, and in synchronization with ever-changing business needs
+
+• Ability to perform troubleshooting/root cause analysis to pinpoint issues and devise resolutions for data/reporting issues
+
+• Ability to share information and insight on source data structures in order to support decision-making for technical and functional modifications to enterprise software applications
+
+Job Type: Full-time
+
+Pay: $70,618.28 - $88,272.86 per year
+
+Benefits:
+401(k)
+Dental Insurance
+Disability Insurance
+Employee Assistance Program
+Flexible Spending Account
+Health Insurance
+Life Insurance
+Paid Time Off
+Professional Development Assistance
+Retirement Plan
+Tuition Reimbursement
+Vision Insurance
+Schedule:
+8 Hour Shift
+Monday to Friday
+COVID-19 considerations:
+To keep our employees and visitors safe, everyone is required to wear a face covering and submit to wellness screening including a temperature check prior to entering the building.
+
+Experience:
+Data Management: 5 years (Preferred)
+Education:
+Associate (Preferred)
+Work authorization:
+United States (Preferred)
+Company's website:
+www.faypwc.com
+Company's Facebook page:
+https://www.facebook.com/faypwc
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19",3.2,"Fayetteville Public Works Commission
+3.2","Fayetteville, NC",-1,501 to 1000 Employees,1905,Government,Energy,"Oil, Gas, Energy & Utilities",$100 to $500 million (USD),-1
+Data Scientist,$78K-$133K (Glassdoor est.),"STRATACACHE provides salable customer experiences, empowering retailers to learn deeply about their customers’ shopping preferences and behaviors, allowing for personalized shopper interaction. Our solutions deliver consumer activation at the point-of-decision, generating new sales opportunities and enhanced retail profitability. With 3 million+ software activations globally, we power the biggest digital networks for the world’s largest brands. Across the STRATACACHE family of complementary digital media/ad tech solution companies, we have the technology, expertise and track record to bring retail innovation that delivers results.
+
+Learn more about the STRATACACHE family at www.stratacache.com.
+
+Data Scientist
+
+Do you love data? Do you enjoy creating statistical models and finding insights that make a difference? Are you interested in the future of retail, commerce, and customer analytics? If so, this is the role for you. In this role you will have the opportunity to work with software engineering, sales, and product organizations to develop innovative, impactful data applications. Your efforts will enhance the overall product quality utilizing many aspects of data science, including various types of modeling that drive toward strategic analytics. You will be focused on the future of the restaurant and retail experience by discovering insights while creating strategic, marketing, retail, customer experience and digital analytics. Your background in statistics, data science, big data, normalization, modeling, quantitative research, and/or analytics consulting will be very beneficial as you take on this exciting position in the company and join our Data Science team. In this role you will also have the opportunity to continue to build and improve the marketing of technology products that are influenced by data, understand human behavior and determine how to influence and impact the retail marketplace with exciting new solutions and insights.
+
+Responsibilities include:
+
+Design, build, and deliver statistical models and related actionable data-focused results to support product and customer requirements and initiatives.
+Work closely with engineering, product and sales teams to understand business and technical requirements, translate these into important discovery directives, and follow through to optimize and support the enhancement and growth of Stratacache products.
+Establish and make effective use of internal and external datasets to back up and support key strategic, product, and customer decision-making efforts.
+Serve as the data science expert on cross-functional teams for large strategic initiatives and education on accessing and utilizing qualified and focused data for decision making.
+Analyze, propose, design and successfully deliver data experiments for engineering, product and sales teams to ensure statistical rigor and effectiveness.
+Provide expertise and professionalism in handling sensitive, privacy-protected data, including sources, structures, organization, and optimization.
+Communicate complex ideas about our product through visual aids like charts and dashboards.
+Keep up-to-date with emerging data science and statistical technologies, methods and practices.
+Create and/or use existing data models for predictions regarding user behavior.
+Communicate ideas, processes, and results to all levels of internal and external clients and teams.
+Basic & Preferred Qualifications
+Bachelor's degree required in Computer Science, Mathematics, Statistics, Quantitative Analysis, or other technical field related to software development.
+Minimum 3 years of related experience working with data science and statistical modeling.
+Experience in the QSR, retail or ecommerce industries from a data perspective is required.
+Experience with recommendation engines and discovering new and advanced modeling methods i.e. deep neural networks, gradient boosted decision trees, etc.. is required.
+Experience with SQL and at least one functional or statistical programming language is required.
+Minimum of 3 years of related experience working with R and Python is required.
+Minimum of 3 years of related experience working with REST APIs is required.
+Experience working with Postgres, Timescale DB and/or other related database technologies is required.
+Ability to distill complex statistical concepts and methodology, and articulate insights to cross-functional teams and clients with varying levels of knowledge in this space is required.
+Ability to work with distributed and remote teams is required.
+Experience with complex query writing is required.
+Experience with result-set performance tuning and related data administration is required.
+Experience with big data technologies is required.
+Experience and understanding of various statistical modeling tools and platforms is required.
+Experience in ecommerce, wifi, app messaging, social and other datasets is beneficial.
+Experience in machine learning and artificial intelligence methods and practice is beneficial.
+Understanding and experience with database technologies is beneficial including Oracle, SQLServer, etc..
+Understanding and experience with BI technologies is beneficial: Tableau, Microstrategy, Microsoft, OBI, etc..
+Experience with kafka, Go, or Redis is beneficial.
+Understanding of data modeling techniques and star schemas is beneficial.
+Experience with Hadoop and MapReduce is beneficial.
+Experience with ftp, file transfers, data exchange methodologies.
+A solid understanding of methodology, data and systems from a broad range of research and analytics providers, including emerging tools and methods is required.
+Ability to articulate and tie data to business strategy.
+Microsoft Excel and PowerPoint skills
+Self-motivated, self-starter with a team-centric focus while working in a fluid environment.
+Exceptional communication skills: verbal, written, and presentation.
+Experience in the following areas: strategic analytics, marketing analytics, digital analytics, data analytics, statistics, data science, big data, normalization, modeling, quant research, analytics consulting.
+Desire and interest to uncover and discover insights using disparate data sources.
+Desire and interest in being the “Go To” person for data science.
+Dynamic personality and passion for data, analytics, visualizations and storytelling is beneficial for this role.
+Keen sense of user interface design, style, aesthetics and effective visual presentation.
+Experience with agile development methodologies.
+Ability to work effectively in fast-paced, results-oriented work environment.
+Ability to handle and adjust to change in requirements and direction.
+Positive attitude, attention to detail, and great problem solving skills are important.
+
+STRATACACHE and its family of companies provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, pregnancy, childbirth or related medical condition, veteran, marital, parental, citizenship, or domestic partner status, or any other status protected by applicable national, federal, state or local law.
+
+While we are excited and appreciate you interest in our opportunities, please keep in mind that we are not able to contact all applicants that have applied.
+
+No vendor/agency solicitation please.",3.6,"STRATACACHE
+3.6","Dayton, OH",-1,201 to 500 Employees,1999,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1
+Data Scientist,$78K-$133K (Glassdoor est.),"Job Brief
+
+The ideal candidate will have previous Data Modeling experience. Strong preference will be given to candidates with an actuarial background in the property and casualty insurance space.
+
+Overview
+
+IFG Companies is in search of a Data Scientist to join its growing Predictive Modeling team.
+
+The ideal candidate will have previous Data Modeling experience. Strong preference will be given to candidates with an actuarial background in the property and casualty insurance space.
+
+Responsibilities
+Build predictive and/or Machine Learning models in SAS
+Research new statistical and mathematical techniques that are suitable and helpful for solving business related problems
+Prepare data for modelling and make best/creative use of applicable and available internal or external data
+Identifying and integrating new datasets that can be leveraged for modeling efforts
+Support related processes around effectively deploying model to business
+Effectively communicate results in written, oral and presentation formats to technical and non-technical audiences
+Qualifications
+Bachelor’s degree in statistics, applied mathematics, or related discipline
+3+ years of Data Modeling or similar experience.
+Experience with predictive modeling (classification, regression, parameter tuning, optimization criteria, feature selection), preferably with multiple techniques
+Experience in model validation techniques, model testing and continuous monitoring of model performance
+Experience in Property & Casualty Insurance is strongly preferred.
+Demonstrated experience working with large relational data sets.
+Working knowledge in SAS, R, Python or another platform to develop and implement predictive models.
+Ability and willingness to quickly gain knowledge of SAS enterprise guide and enterprise miner.
+Ability to communicate complex technical information in common language to foster teaching and analytics guidance to internal customers.
+Advanced experience in analytics, data cleaning, and predictive modeling.
+Ability to write queries in SQL.
+Detail-oriented and ability to work collaboratively
+Physical Demands
+Physical demands are considered to be that of an office environment, climate controlled, with minimal physical exertion. This position requires prolonged sitting, ability to utilize a computer and interactions with others in meetings or via phone.
+Benefits
+We offer a competitive compensation and benefits package including medical, dental, vision, 401(k), flexible spending, short-term and long-term disability insurance, life insurance, long-term care, education assistance and paid time off.
+IFG Companies is an equal opportunity employer committed to a diverse workforce. M/F/D/V",2.9,"IFG Companies
+2.9","Atlanta, GA",-1,201 to 500 Employees,1985,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,-1
+Data Scientist-Junior,$78K-$133K (Glassdoor est.),"Business Group Highlights
+
+Defense
+
+The Defense group supports the Department of Defense (DoD) mission to keep our homeland and its citizens safe. We provide solutions to improve the Nation's defense by providing software, systems engineering, IT, training and logistics and fleet management solutions.
+
+Responsibilities
+
+This position is for a large contract for the Army, providing leadership and support existing systems, processes, and policies as well as working to implement new technologies and processes in support of the client’s mission to provide Intelligence training and technologies to military personnel.
+
+Provides data science and data engineering support to targeting activities that bring in large datasets. Data science and data engineering support is needed to help manage and execute the ingest (extract, transform and load (ETL) operations), parsing, data normalizations, database design, as well as performing data analysis at scale and implementing algorithms to find impactful operational and finished intelligence in large data streams. Involved in the analysis of unstructured and semi-structured data. Exercises creativity in applying non-traditional approaches to large-scale analysis of unstructured data in support of high-value use cases. Handles processing against high-volume collections of data and high-velocity data streams. Has the ability to make discoveries in the world of big data. Requires strong technical and computational skills coupled with the ability to code, design, develop, and deploy sophisticated applications using advanced unstructured and semi-structured data analysis techniques. Has the ability to utilize advance tools and computational skills to interpret, connect, predict and make discoveries in complex data and deliver recommendations. Develops documentation to support objectives of operationally-focused team members.
+
+Qualifications
+
+3 years experience and a BA/BS degree
+
+Responsible for assisting more senior positions and/or performing functional duties under the oversight of more senior positions.
+
+Current TS/SCI clearance
+
+Bachelor of Science Degree or higher computer science, statistics, or other related STEM (Science, Technology, Engineering, or Math)
+
+Desired qualifications:
+
+Strong understanding of data engineering, structure, formatting, conditioning and analysis.
+Knowledge of database tools and current data science processes.
+Full-stack development experience.
+
+Desired Skills:
+
+Thorough/Working knowledge of Python and some of the following software/tools: SQL, R, Hadoop, Spark, Java, C/C++, Git Bash, Tableau, ArcGIS, Unix commands.
+Thorough/Working knowledge of research designs.
+Thorough/Working knowledge of collection methods, capabilities and tasking process.
+Familiarity with project management concepts and principles.
+Intellectual curiosity; creativity and innovation to go beyond current tools to deliver the best solution to complex problems.
+Strong analytical and critical thinking skills
+
+About Perspecta
+
+What matters to our nation, is what matters to us. At Perspecta, everything we do, from conducting innovative research to cultivating strong relationships, supports one imperative: ensuring that your work succeeds. Our company was formed to bring a broad array of capabilities to all parts of the public sector—from investigative services and IT strategy to systems work and next-generation engineering.
+
+Our promise is simple: never stop solving our nation’s most complex challenges. And with a workforce of approximately 14,000, more than 48 percent of which is cleared, we have been trusted to do just that, as a partner of choice across the entire sector.
+
+Perspecta is an AA/EEO Employer - Minorities/Women/Veterans/Disabled and other protected categories.
+
+As a government contractor, Perspecta abides by the following provision
+
+Pay Transparency Nondiscrimination Provision
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of the other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c).",3.2,"Perspecta
+3.2","Washington, DC",-1,10000+ Employees,2018,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,-1
+"Data Scientist, Machine Learning",$78K-$133K (Glassdoor est.),"Job Description
+
+At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour.
+
+Shipt is growing and we are searching for a Data Scientist, Machine Learning to join our team! At Shipt, we're using machine learning (ML) and analytics to drive our business forward. We're looking for help understanding our data, optimizing our processes, and making predictions to improve our product and customer experience.
+
+The data science team builds data driven solutions using machine learning and modeling techniques. Our solutions include predictive models, clustering, segmentation, complex reporting, and quantitative research. Our ideal candidate will be data-driven, intellectually curious, and a clear communicator with experience building machine learning models.
+
+What You'll Gain
+You will get experience working with a cross-disciplinary team shipping real-world products to our customers around the nation. You will also receive hands-on mentorship from your friendly teammates on topics ranging from design to career advice
+
+Your Responsibilities
+Develop a thorough understanding of our data and interpret them as they relate to shopper behavior, search performance, profitability, and product development
+Build predictive models and optimization routines to capture opportunities and solve problems. Applications include modeling demand in a given market, delivering search recommendations, and optimizing internal processes
+Collaborate with other members of the Data Science and engineering teams on ways to approach problems, augment code, and share new techniques
+Work with functional team leaders (in Product, Operations, Marketing, etc.) to explain your analysis, findings, and recommendations
+Find opportunities for improvement across the business and assist in decision-making across teams
+Stay abreast of developments in the field and contribute to its advancement
+Requirements
+At least 2 years of experience with machine learning, predictive modeling, and/or optimization techniques
+High degree of proficiency with one of R or Python
+Proficiency with SQL
+Experience with a data visualization tool (Tableau, Chartio, Looker, Spotfire, Power BI, etc.)
+Experience with cloud computing services or platforms
+Comfortable giving verbal presentations and communicating with technologies like Zoom and Slack
+Bachelor's degree in a quantitative field or related experience
+Nice to Haves
+Experience deploying predictive models in a cloud environment
+Experience with batch processing framework
+Familiarity with AWS, version control, and peer code review systems
+Familiarity with on-demand and/or multi-sided marketplaces
+Proficiency in both R and Python
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.4,"Shipt
+3.4","Birmingham, AL",-1,1001 to 5000 Employees,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,-1
+STAFF SCIENTIST,$78K-$133K (Glassdoor est.),"Position: Staff Scientist
+
+Requisition Number: 2020-2410-09
+
+S&ME is an employee-owned engineering firm that provides civil, geotechnical, environmental, planning, landscape architecture, survey and construction services. Consistently ranked in the top 100 of ENR's Top 500 Design Firms, our markets are diverse and include transportation, energy, water/wastewater, commercial development, industry, healthcare, education and government. We recruit top talent and are currently seeking a Staff Scientist to join our team in Chattanooga, Tennessee.
+
+The individual will perform field and office work associated with environment evaluations. Field work will include: soil sampling, groundwater sampling, surface water sampling, sediment sampling, wetland delineations, stream classifications, and fauna/flora identification. Other responsibilities include completing data entry to capture field activities, and the preparation of standard environmental reports. This individual will be expected to maintain knowledge of, and compliance with, regulatory requirements by attending environmental or natural resources training courses, or other in-house trainings. This position will require some travel and overnight stays.
+
+Qualifications:
+BS in environmental science, geology, biology, chemistry or related field;
+2-4 years field experience in related field;
+Ability to work outdoors in varying weather conditions;
+Ability and willingness to accommodate overnight and out-of-town assignments;
+Good technical writing, verbal communication, and computer skills.
+This is a full-time position with competitive pay based on experience. Successful candidate must meet requirements of the company's Fleet Management Program, Substance Policy and Reference Check program. Submit resume, cover letter, and salary expectations for consideration. Only qualified candidates with acceptable employment eligibility verification (I-9) will be considered. Visa assistance not provided. S&ME reserves the right to fill this position with an internal or external candidate at any time during the search. S&ME is not responsible for unauthorized job postings or submissions of resumes using external links/websites.
+
+No candidate/recruiter calls, personal calls or walk-ins accepted.
+
+An Equal Opportunity Employer.
+
+Minorities/Females/Disability/Veterans; VEVRAA Federal Contractor
+
+Job Posted by ApplicantPro",3.6,"S&ME, Inc.
+3.6","Chattanooga, TN",-1,1001 to 5000 Employees,1973,Company - Private,Architectural & Engineering Services,Business Services,$100 to $500 million (USD),-1
+Data Scientist,$78K-$133K (Glassdoor est.),"Job Title: Data Scientists
+
+Job Description
+Join an elite group dedicated to continuous personal improvement as GCT is currently seeking Data Scientists of all levels to support an intelligence agency with insights gained from analyzing voluminous sensor data. The ideal candidate is adept at using large data sets to find opportunities for process optimization and using models to test the effectiveness of different courses of action. Candidates must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Clearance: TS/SCI w/Full scope polygraph (or used within the past 24 months)
+
+Education/Experience Requirements
+
+Senior Positions:
+Masters degree in Data Science, Statistics, Mathematics, Computer Science or another quantitative field, or extensive comparable experience
+10+ years of relevant experience
+Junior/Intermediate Positions
+Completed B.S. in Data Science, Mathematics, Statistics, Computer Science, Computer Engineering, or a closely related technical field
+3-9 years of relevant experience
+Qualifications
+Experience using statistical computer languages (SAS, SPSS, R, Python, SLQ, etc.) to manipulate data and draw insights fromlarge data sets
+Experience working with and creating data architectures
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Excellent written and verbal communication skills
+Strong problem solving skills
+A drive to learn and master new technologies and techniques
+Desired Skills
+Experience manipulating data sets and building statistical models
+Coding knowledge and experience with several languages: C, C++, Java, JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, Bayes, etc.
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+Experience using web services: Redshift, S3, Spark, DigitalOcean, AWS, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+The success of Great-Circle Technologies depends on the success and well-being of its employees. GCT promotes work/life balance and encourages the overall well-being of each of its contributors. A comprehensive benefits package is provided, which currently includes company paid single medical, dental, life, disability, and long-term care insurances (with contributions to family premiums,) matching 401k plan, 34 days off per year including 10 Federal holidays plus the day after Thanksgiving, Christmas and New Year’s eves!
+
+Join us at Great-Circle Technologies, where innovation is the shortest distance between two points.
+
+Great-Circle Technologies is an Equal Opportunity Employer. Great-Circle Technologies ensures all qualified applicants will receive consideration for employment without regard to gender, race, ethnic background, religion, disability, sexual orientation, gender identity, national origin, age, or protected veteran status.",2.2,"Great-Circle Technologies
+2.2","Chantilly, VA",-1,1 to 50 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),-1
+Data Scientist,$78K-$133K (Glassdoor est.),"Company Description
+
+MMIT is growing from the leading drug coverage data business into a comprehensive, integrated market access company serving pharmaceutical manufacturers, health insurers, PBMs and healthcare IT companies. Their suite of applications is designed to manage an ever-changing proprietary set of pharmacy and medical benefit information and to provide a structured view of complex market access information. By embedding their data and SaaS applications across healthcare, they help ensure transparency, consistency and informed prescription decisions across the MMIT Network. They partner with hundreds of payers and pharma manufacturers ensuring that their products continually capture and analyze coverage and restriction criteria for more than 98% covered lives.
+
+Team Overview
+
+The MMIT Product Management Team is charged with developing, growing and maintaining the MMIT product portfolio that smooth access to lifechanging therapies. This entails managing products through all phases of the product lifecycle, from concept to sunset. The product management team embraces a market-backed perspective, champions unmet client needs, and is committed to a highly accountable and collaborative Product Management approach.
+
+Job Description
+
+MMIT is seeking experienced Data Scientists to meaningful contributes to the growth and development of the MMIT product portfolio. Ideal candidates are comfortable working with large, complex data sets to help inform, simplify and actualize key product capabilities. They will have comfort collaborating with various stakeholders and navigating ambiguity with limited direction. They will dedicate themselves to understanding the MMIT product portfolio (both current capabilities and future product roadmaps) and key data dependencies to inform data models, architecture, and new product development.
+
+To succeed in this role, you will apply your skillset to
+
+· Inform, create and/or maintain master data hierarchy, attributes and structure.
+
+· Bridge claims data and coverage data – Refine existing rules and create and continually improve new methods for accurately assigning pharmacy and medical claims volumes to MMIT controller entities
+
+· Apply data science to the creation of short and long form geographic market and controller entity descriptive narratives (NLP / NLG)
+
+· Translate product management strategy into actionable data science deliverables, guiding development of data models, business rules and other advanced analytical capabilities
+
+· Excel at communicating across a broad set of cross-functional stakeholders.
+
+· Work collaboratively with MMIT product and data teams to develop and/or commercialize analytics use cases that may include market access, coverage / lives, and RWE data
+
+· Effectively partner with external organizations including clients and vendors to develop meaning and projectable analytics about trends in market access dynamics across payers, geographies, indications, drugs, etc.
+
+· Identify and evaluate additional data sources that could be integrated in value enhancing ways.
+
+· Build reports, dashboards and/or other analyses as needed and/or as specific initiatives arise.
+
+· Support various commercial or commercialization efforts as needed.
+
+· Take a leading role in developing data science as a discipline across product management, development and data operations.
+
+Qualifications
+
+Relevant Skills and Experiences
+
+· Postgraduate degree or higher involving machine learning, statistics, or computer science
+
+· Experience of statistical / machine learning projects in academia or commercial sector end to end with proven delivery capability including capturing requirements, designing analysis plans, interfacing with clients and report / manuscript writing
+
+· Experience in applying Natural Language Processing and related AI capabilities.
+
+· Experience working with large and complex healthcare datasets, preferably patient-level longitudinal data and experience with studies of treatment effectiveness/outcomes, disease progression, adherence, healthcare utilization, patient journey, sales targeting, prescription/procedure volumes/shares, provider networks and prescribing/treatment patterns, etc
+
+· Strong related programming skills including experience with good coding practices and a thorough understanding of the data science package landscape. Familiarity with Tableau and PowerBI a plus.
+
+· Familiarity with agile software development practices
+
+· Excellent written and spoken communication skills, including ability to present technical concepts to lay audiences, write analysis plans for projects, contribute to proposals / grant applications, pitch ideas effectively and persuasively to clients / internal stakeholders, etc.
+
+· Demonstrated ability to work both collaboratively to solve complex problems and individually to research/advance areas of interest and exploration
+
+· Proven ability to develop meaningful/valuable analytic insights from multiple data sources and support value through commercialization
+
+Preferred candidates may also have
+
+· Experience supporting or launching Data and Analytics or SaaS-based enterprise product
+
+· Experience in managed markets and pharma market access ecosystem
+
+· Experience in the commercial health insurance industry
+
+· Knowledge of payer marketing, drug development lifecycle and drug launch process
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
+Position will be based in Livingston NJ or Yardley PA
+
+(highly qualified remote applicants will be considered)
+
+Travel Requirements:
+
+Approximately <10>",3.8,"MMIT
+3.8","Yardley, PA",-1,201 to 500 Employees,1994,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1
+Data Scientist/Machine Learning,$78K-$133K (Glassdoor est.),"Data Scientist/Machine Learning
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",3.8,"Juniper Networks
+3.8","Cupertino, CA",-1,5001 to 10000 Employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1
+Data Scientist,$78K-$133K (Glassdoor est.),"Zynga is a leading developer of the world’s most popular social games that are played by people around the world every single day. To-date, more than 1 billion people have played our games across Web and mobile, including Words With Friends, FarmVille, Zynga Poker, Merge Dragons, Empires & Puzzles, Hit it Rich! Slots and CSR.
+
+Zynga’s Marketing Data Science and Analytics team uses our outstanding and expansive data to deliver fundamental insights on who our audience is, how they engage with our games, and what are the best ways to acquire them. We strive for a better understanding of our players which translates into challenges and features that delight them.
+
+Here’s where you would come in: identify and formalize problems related to campaign optimization. Design and develop systems and services to optimize campaigns at scale. Be innovative, be creative, use every bit of that key commodity – data. Millions of people play Zynga games every day, so our data is tremendously rich, and we have a lot of it!
+
+We will rely on you to communicate your findings to your peers – both technical and non-technical. Your solutions to difficult problems will need to be demonstrably impactful, visual and maintainable. You will collaborate with engineering teams to build proof-of-concept and MVPs of campaign bidders and optimizers. You will collaborate with User Acquisition Managers, Product Managers, and Engineers to deliver business impact.
+
+Responsibilities:
+Design and implement scalable systems and models to experiment with campaigns and creatives across channels and acquire users at scale
+Work with large amounts of data to find and realize opportunities to acquire and re-target users profitably delivering unambiguous business metric impact
+Craft effective campaign strategies to acquire users across a multitude of user acquisition channels
+Drive and empower user acquisition team to make quantitatively informed, evidence based decisions - through custom visualizations, and ETLs to augment user data
+Design, test, verify and implement machine learning models with Zynga’s games that impact millions of users. Models may include but not limited to LTV modelling, campaign bid recommendations, budget allocation, clustering/segmentation, forecasting, fraud detection, and / or reinforcement learning
+Build prototypes and MVPs of services and applications that improve effectiveness of campaigns, creatives, ad networks and/or user segments.
+Required Skills and Experience:
+B.S. or B.A. in Math, Statistics, Comp Sci, Engineering, or other quantitative field required; Masters, MBA or PhD preferred
+5+ years of relevant work experience in data science or analytics role in a Marketing Analytics or a User Acquisition Analytics Team
+Familiar with mobile performance marketing and/or user acquisition landscape
+Strong experience in SQL;
+Proficient in Python; Proven fundamental programming skills (algorithms, data structures, OOP, OS, Networking, AWS Cloud); Ability to design distributed systems
+Ability to build and maintain software services and systems at scale; experience in deploying services in at least one cloud provider (AWS, Google Cloud or Azure)
+Proven experience with some of the following: machine learning, predictive modeling, deep learning
+Experience in analyzing large datasets, preferably in a Hadoop or Spark environment, and deploying production ready systems at scale
+Strong written and oral communication skills
+Strong passion for gaming and performance marketing!
+Zynga is an equal opportunity employer. We are proud of our broad community; we do not discriminate on the basis of race, sex, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, medical condition, disability, or any other class or characteristic protected by applicable law. We welcome job-seekers, players, employees, and partners from all backgrounds. Join us!
+
+We will consider all qualified job-seekers with criminal histories in a manner consistent with applicable law.
+
+Zynga is committed to providing reasonable accommodation to applicants with disabilities. If you need an accommodation during the interview process, please let us know.",4.1,"Zynga
+4.1","Austin, TX",-1,1001 to 5000 Employees,2007,Company - Public,Video Games,Media,$500 million to $1 billion (USD),-1
